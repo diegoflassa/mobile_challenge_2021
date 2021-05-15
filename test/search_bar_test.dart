@@ -6,7 +6,6 @@
 // tree, read text, and verify that the values of widget properties are correct.
 
 import 'package:flutter/material.dart';
-import 'package:flutter_test/flutter_test.dart' as flutter_test;
 import 'package:flutter_test/flutter_test.dart';
 import 'package:mobile_challenge_2021/enums/gender.dart';
 import 'package:mobile_challenge_2021/interfaces/on_search.dart';
@@ -47,7 +46,7 @@ void main() {
 
   final _onSearchImpl = OnSearchImpl();
 
-  flutter_test.testWidgets('Search Bar test', (tester) async {
+  testWidgets('Search Bar test', (tester) async {
     final searchBar = SearchBarWidget(onSearch: _onSearchImpl, isTest: true);
     // Build our app and trigger a frame.Key('search_button')));
     await tester.pumpWidget(_buildAppWithSearchBarWidget(searchBar));

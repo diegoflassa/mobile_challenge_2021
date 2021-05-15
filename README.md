@@ -14,6 +14,7 @@ App de visualização de pacientes para a Pharma Inc. do desafio mobile 2021 da 
 - Equatable
 - Settings_ui
 - States_rebuilder
+- Flutter_test
 
 ## Instalação & Execução
 
