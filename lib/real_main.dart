@@ -6,7 +6,6 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
-import 'package:flutter_driver/driver_extension.dart';
 import 'package:get_it/get_it.dart';
 import 'package:mobile_challenge_2021/bloc/main_bloc.dart';
 import 'package:mobile_challenge_2021/helpers/lifecycle_event_handler.dart';
@@ -24,8 +23,6 @@ import 'package:mobile_challenge_2021/ui/themes/my_toggle_button_theme.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 
 Future<bool> realMain() async {
-  // This line enables the extension.
-  enableFlutterDriverExtension();
   WidgetsFlutterBinding.ensureInitialized();
   WidgetsBinding.instance?.addObserver(LifecycleEventHandler(
       didHaveMemoryPressureCallback: _didHaveMemoryPressure));
