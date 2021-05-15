@@ -28,4 +28,4 @@ Para utilizar:
 . Na tela de detalhes, use a tecla 'back' ou o botão 'X' para retornar à listagem principal.
 
 
-![challenge](https://lab.coodesh.com/public-challenges/mobile-challenge-2021) by ![coodesh](https://coodesh.com/)
+[Challenge](https://lab.coodesh.com/public-challenges/mobile-challenge-2021) by [coodesh](https://coodesh.com/)
