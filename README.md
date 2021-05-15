@@ -17,9 +17,9 @@ App de visualização de pacientes para a Pharma Inc. do desafio mobile 2021 da 
 
 ## Instalação & Execução
 
-Para buildar, simplesmente execute ```flutter build apk``` na pasta raiz do projeto
-Para executar, execute ```flutter run --release``` na pasta raiz do projeto
-Para utilizar:
+-Para buildar, simplesmente execute ```flutter build apk``` na pasta raiz do projeto
+-Para executar, execute ```flutter run --release``` na pasta raiz do projeto
+-Para utilizar:
 
 - Na tela principal, use a barra de busca para filtrar os resultados desejados, por nacionalidade, sexo ou nome.
 - Clique no botão de filtragem (busca) para executar.
