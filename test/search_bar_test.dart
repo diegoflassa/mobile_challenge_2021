@@ -21,7 +21,6 @@ class OnSearchImpl implements OnSearch {
   void onSearch(
       {String? query, String? nationality, Gender gender = Gender.UNKNOWN}) {
     expect(query, 'Alice');
-    //expect(nationality, 'BR');
     expect(gender, Gender.MALE);
   }
 }
@@ -48,7 +47,6 @@ void main() {
 
   testWidgets('Search Bar test', (tester) async {
     final searchBar = SearchBarWidget(onSearch: _onSearchImpl, isTest: true);
-    // Build our app and trigger a frame.Key('search_button')));
     await tester.pumpWidget(_buildAppWithSearchBarWidget(searchBar));
     await tester.enterText(find.byKey(const Key('search_input')), 'Alice');
     await tester.tap(find.byKey(const Key('button_gender')));
