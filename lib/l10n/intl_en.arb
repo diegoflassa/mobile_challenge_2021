@@ -1,0 +1,269 @@
+{
+  "@@locale": "en",
+  "@@last_modified": "2021-05-14T18:38:42.476159",
+  "all": "All",
+  "@all": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dob": "Date of Birth",
+  "@dob": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Address",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "telephone": "Telephone",
+  "@telephone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cellphone": "Cellphone",
+  "@cellphone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reset": "Reset",
+  "@reset": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select": "Select",
+  "@select": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "genderTitle": "Select the desired Gender",
+  "@genderTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "genderMessage": "Select \"any\" if no gender filter should be applied",
+  "@genderMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "any": "Any",
+  "@any": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "Gender",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullName": "Name",
+  "@fullName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "Languages",
+  "@languages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unavailable": "Unavailable",
+  "@unavailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectNationality": "Select the Nationality",
+  "@selectNationality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "Select your Language",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Search",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultLanguage": "Default Language",
+  "@defaultLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageSelectionTitle": "Language Selection",
+  "@languageSelectionTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageSelectionSubtitle": "Current Locale:",
+  "@languageSelectionSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Name",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "Male",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "Female",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "preferNotToSay": "Prefer not to say",
+  "@preferNotToSay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirm",
+  "@confirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentValue": "Current Value:",
+  "@currentValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stateNotSupportedError": "State Not Supported Error",
+  "@stateNotSupportedError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty": "Empty",
+  "@empty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchPatient": "Search Patient",
+  "@searchPatient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "licenses": "Licenses",
+  "@licenses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Settings",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "performanceOverlay": "Performance Overlay",
+  "@performanceOverlay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "materialGrid": "Material Grid",
+  "@materialGrid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "semanticsDebugger": "Semantics Debugger",
+  "@semanticsDebugger": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingPatients": "Loading Patients",
+  "@loadingPatients": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ascending": "Ascending",
+  "@ascending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "descending": "Descending",
+  "@descending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "random": "Random",
+  "@random": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "id": "Id",
+  "@id": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alphabetically": "Alphabetically",
+  "@alphabetically": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate": "Birthdate",
+  "@birthdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nationality": "Nationality",
+  "@nationality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Loading...",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingPatient": "Loading Patient",
+  "@loadingPatient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reloadingIn": "Reloading in",
+  "@reloadingIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thisPageShouldNotBeVisible": "This page should not be visible",
+  "@thisPageShouldNotBeVisible": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noPatientFound": "No patient found",
+  "@noPatientFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyItems": "No items found",
+  "@emptyItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Error",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknown": "Unknown",
+  "@unknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "Patients Viewer",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

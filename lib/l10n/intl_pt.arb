@@ -1,0 +1,268 @@
+{
+  "@@locale": "pt",
+  "all": "Todos",
+  "@all": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "dob": "Data de Nascimento",
+  "@dob": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "address": "Endereço",
+  "@address": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "email": "Email",
+  "@email": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "telephone": "Telefone",
+  "@telephone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cellphone": "Celular",
+  "@cellphone": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reset": "Resetar",
+  "@reset": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "select": "Selecionar",
+  "@select": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "genderTitle": "Selecione o sexo desejado",
+  "@genderTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "genderMessage": "Selecione \"qlqr\" se nenhum filtro deve ser aplicado",
+  "@genderMessage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "any": "Qlqr",
+  "@any": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "gender": "Sexo",
+  "@gender": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "fullName": "Nome Completo",
+  "@fullName": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languages": "Idioma",
+  "@languages": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unavailable": "Indisponível",
+  "@unavailable": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectNationality": "Selecione a Nacionalidade",
+  "@selectNationality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "selectYourLanguage": "Selecione seu idioma",
+  "@selectYourLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "search": "Busca",
+  "@search": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "defaultLanguage": "Idioma Padrão",
+  "@defaultLanguage": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageSelectionTitle": "Seleção de Idioma",
+  "@languageSelectionTitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "languageSelectionSubtitle": "Local Atual:",
+  "@languageSelectionSubtitle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "name": "Nome",
+  "@name": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "male": "Masculino",
+  "@male": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "female": "Feminino",
+  "@female": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "preferNotToSay": "Prefiro não dizer",
+  "@preferNotToSay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "confirm": "Confirmar",
+  "@confirm": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancel": "Cancelar",
+  "@cancel": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "currentValue": "Valor Atual:",
+  "@currentValue": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "stateNotSupportedError": "Erro de estado não suportado",
+  "@stateNotSupportedError": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "empty": "Vazio",
+  "@empty": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "searchPatient": "Busca de Pacientes",
+  "@searchPatient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "licenses": "Licensas",
+  "@licenses": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "settings": "Configurações",
+  "@settings": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "performanceOverlay": "Overlay de Performance",
+  "@performanceOverlay": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "materialGrid": "Grid Material",
+  "@materialGrid": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "semanticsDebugger": "Debugger Semântico",
+  "@semanticsDebugger": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingPatients": "Carregando Pacientes",
+  "@loadingPatients": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "ascending": "Ascendente",
+  "@ascending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "descending": "Descendente",
+  "@descending": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "random": "Aleatório",
+  "@random": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "id": "Id",
+  "@id": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "alphabetically": "Alfabético",
+  "@alphabetically": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "birthdate": "Data de Nascimento",
+  "@birthdate": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "nationality": "Nacionalidade",
+  "@nationality": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loading": "Carregando...",
+  "@loading": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "loadingPatient": "Carregando Paciente",
+  "@loadingPatient": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "reloadingIn": "Recarregando em",
+  "@reloadingIn": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "thisPageShouldNotBeVisible": "Esta página não deveria estar visível",
+  "@thisPageShouldNotBeVisible": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "noPatientFound": "Nenhum paciente encontrado",
+  "@noPatientFound": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "emptyItems": "Nenhum ítem encontrado",
+  "@emptyItems": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "error": "Erro",
+  "@error": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "unknown": "Desconhecido",
+  "@unknown": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "appName": "Patients Viewer",
+  "@appName": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

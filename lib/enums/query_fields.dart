@@ -1,0 +1,1 @@
+enum QueryFields { FULL_NAME, GENDER, NATIONALITY, UNKNOWN }
