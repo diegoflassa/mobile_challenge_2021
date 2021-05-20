@@ -49,6 +49,7 @@ void main() {
     final searchBar = SearchBarWidget(onSearch: _onSearchImpl, isTest: true);
     await tester.pumpWidget(_buildAppWithSearchBarWidget(searchBar));
     await tester.enterText(find.byKey(const Key('search_input')), 'Alice');
+    find.byType(Text);
     await tester.tap(find.byKey(const Key('button_gender')));
     await tester.pumpAndSettle();
     await tester.tap(find.byKey(const Key('gender_male')));

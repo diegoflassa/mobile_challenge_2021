@@ -6,7 +6,7 @@ class Constants {
 
   static const double DEFAULT_CARD_WIDTH = 350.0;
   static const double DEFAULT_AVATAR_RADIUS = 50;
-  static const int DEFAULT_MAX_PAGE_TO_SEARCH = 50;
+  static const int DEFAULT_MAX_PAGE_TO_SEARCH = 10;
   static const int DEFAULT_MAX_ITEMS_TO_GET_IMAGE = 5;
   static const int DEFAULT_DELAY_TO_UPDATED_ENTITIES = 2000;
   static const int DEFAULT_DELAY_TO_SEARCH = 300;

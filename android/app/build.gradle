@@ -83,7 +83,7 @@ android {
         debug {
         }
     }
-    buildToolsVersion '31.0.0 rc3'
+    buildToolsVersion '31.0.0 rc4'
 }
 
 flutter {
