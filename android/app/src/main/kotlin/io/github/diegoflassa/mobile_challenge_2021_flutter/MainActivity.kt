@@ -1,4 +1,4 @@
-package io.github.diegoflassa.mobile_challenge_2021
+package io.github.diegoflassa.mobile_challenge_2021_flutter
 
 import io.flutter.embedding.android.FlutterActivity
 

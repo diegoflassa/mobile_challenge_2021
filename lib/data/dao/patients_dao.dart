@@ -1,11 +1,11 @@
 import 'dart:convert';
 
 import 'package:http/http.dart' as http;
-import 'package:mobile_challenge_2021/data/entities/patient.dart';
-import 'package:mobile_challenge_2021/enums/query_fields.dart';
-import 'package:mobile_challenge_2021/helpers/constants.dart';
-import 'package:mobile_challenge_2021/helpers/helper.dart';
-import 'package:mobile_challenge_2021/helpers/my_logger.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/patient.dart';
+import 'package:mobile_challenge_2021_flutter/enums/query_fields.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/constants.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/helper.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/my_logger.dart';
 
 class PatientsDao {
   factory PatientsDao() {

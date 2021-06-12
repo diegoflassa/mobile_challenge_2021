@@ -1,6 +1,6 @@
 import 'package:equatable/equatable.dart';
-import 'package:mobile_challenge_2021/enums/query_fields.dart';
-import 'package:mobile_challenge_2021/helpers/constants.dart';
+import 'package:mobile_challenge_2021_flutter/enums/query_fields.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/constants.dart';
 
 abstract class PatientsEvents extends Equatable {
   @override

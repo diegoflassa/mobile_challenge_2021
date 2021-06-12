@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_challenge_2021/extensions/color_extensions.dart';
-import 'package:mobile_challenge_2021/helpers/constants.dart';
-import 'package:mobile_challenge_2021/i18n/app_localizations.dart';
-import 'package:mobile_challenge_2021/ui/themes/my_color_scheme.dart';
+import 'package:mobile_challenge_2021_flutter/extensions/color_extensions.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/constants.dart';
+import 'package:mobile_challenge_2021_flutter/i18n/app_localizations.dart';
+import 'package:mobile_challenge_2021_flutter/ui/themes/my_color_scheme.dart';
 
 // ignore: import_of_legacy_library_into_null_safe
 // import 'package:flutter_svg/flutter_svg.dart';

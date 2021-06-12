@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_challenge_2021/data/entities/patient.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/patient.dart';
 
 class PatientDetailsModel extends ChangeNotifier {
   /// Internal, private state of the cart.

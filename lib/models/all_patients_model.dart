@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_challenge_2021/data/entities/patient.dart';
-import 'package:mobile_challenge_2021/enums/query_fields.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/patient.dart';
+import 'package:mobile_challenge_2021_flutter/enums/query_fields.dart';
 
 class AllPatientsModel extends ChangeNotifier {
   /// Internal, private state of the cart.

@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
-import 'package:mobile_challenge_2021/bloc/events/patients_events.dart';
-import 'package:mobile_challenge_2021/data/dao/patients_dao.dart';
-import 'package:mobile_challenge_2021/data/entities/patient.dart';
+import 'package:mobile_challenge_2021_flutter/bloc/events/patients_events.dart';
+import 'package:mobile_challenge_2021_flutter/data/dao/patients_dao.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/patient.dart';
 
 abstract class PatientsStates extends Equatable {
   @override

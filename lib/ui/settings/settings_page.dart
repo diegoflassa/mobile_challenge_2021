@@ -3,12 +3,12 @@ import 'package:country_picker/country_picker.dart';
 import 'package:flutter/material.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_svg/flutter_svg.dart';
-import 'package:mobile_challenge_2021/helpers/constants.dart';
-import 'package:mobile_challenge_2021/helpers/dialogs.dart';
-import 'package:mobile_challenge_2021/i18n/app_localizations.dart';
-import 'package:mobile_challenge_2021/real_main.dart';
-import 'package:mobile_challenge_2021/ui/my_scaffold.dart';
-import 'package:mobile_challenge_2021/ui/themes/my_text_style.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/constants.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/dialogs.dart';
+import 'package:mobile_challenge_2021_flutter/i18n/app_localizations.dart';
+import 'package:mobile_challenge_2021_flutter/real_main.dart';
+import 'package:mobile_challenge_2021_flutter/ui/my_scaffold.dart';
+import 'package:mobile_challenge_2021_flutter/ui/themes/my_text_style.dart';
 import 'package:settings_ui/settings_ui.dart';
 
 class SettingsPage extends StatefulWidget {

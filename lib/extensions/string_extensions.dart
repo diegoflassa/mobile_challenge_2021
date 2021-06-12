@@ -1,7 +1,7 @@
 import 'dart:typed_data';
 
-import 'package:mobile_challenge_2021/extensions/uri_extensions.dart';
-import 'package:mobile_challenge_2021/helpers/my_logger.dart';
+import 'package:mobile_challenge_2021_flutter/extensions/uri_extensions.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/my_logger.dart';
 
 extension StringExtensions on String {
 

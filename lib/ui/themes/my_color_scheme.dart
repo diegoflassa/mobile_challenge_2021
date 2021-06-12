@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_challenge_2021/extensions/color_extensions.dart';
+import 'package:mobile_challenge_2021_flutter/extensions/color_extensions.dart';
 
 class MyColorScheme extends ColorScheme {
   factory MyColorScheme() {

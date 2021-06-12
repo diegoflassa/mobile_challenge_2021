@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:intl/intl.dart';
-import 'package:mobile_challenge_2021/l10n/messages_all.dart';
+import 'package:mobile_challenge_2021_flutter/l10n/messages_all.dart';
 
 class AppLocalizations {
   String get all {

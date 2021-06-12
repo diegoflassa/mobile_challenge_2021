@@ -1,8 +1,8 @@
 class Constants {
   static const String APP_NAME = 'Patients';
   static const String APP_PACKAGE_NAME =
-      'br.com.mobile_challenge_2021.mobile_challenge_2021';
-  static const String APP_EMAIL = 'mobile_challenge_2021@pharmainc.com.br';
+      'br.com.mobile_challenge_2021_flutter.mobile_challenge_2021_flutter';
+  static const String APP_EMAIL = 'mobile_challenge_2021_flutter@pharmainc.com.br';
 
   static const double DEFAULT_CARD_WIDTH = 350.0;
   static const double DEFAULT_AVATAR_RADIUS = 50;

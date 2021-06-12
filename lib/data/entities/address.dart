@@ -1,7 +1,7 @@
 import 'package:equatable/equatable.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:json_annotation/json_annotation.dart';
-import 'package:mobile_challenge_2021/data/entities/street.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/street.dart';
 
 part 'address.g.dart';
 

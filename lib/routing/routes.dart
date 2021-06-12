@@ -1,6 +1,6 @@
-import 'package:mobile_challenge_2021/ui/patients/all_patients.dart';
-import 'package:mobile_challenge_2021/ui/patients/patient_details.dart';
-import 'package:mobile_challenge_2021/ui/settings/settings_page.dart';
+import 'package:mobile_challenge_2021_flutter/ui/patients/all_patients.dart';
+import 'package:mobile_challenge_2021_flutter/ui/patients/patient_details.dart';
+import 'package:mobile_challenge_2021_flutter/ui/settings/settings_page.dart';
 
 class Routes {
   static const String home = '/';

@@ -6,8 +6,8 @@ import 'package:connectivity/connectivity.dart';
 
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:http/http.dart' as http;
-import 'package:mobile_challenge_2021/helpers/constants.dart';
-import 'package:mobile_challenge_2021/helpers/my_logger.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/constants.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/my_logger.dart';
 
 class ConnectionStatusSingleton {
   ConnectionStatusSingleton._internal();

@@ -1,6 +1,6 @@
 import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
-import 'package:mobile_challenge_2021/helpers/my_logger.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/my_logger.dart';
 
 class LifecycleEventHandler extends WidgetsBindingObserver {
   LifecycleEventHandler(

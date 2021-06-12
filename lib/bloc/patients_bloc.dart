@@ -1,12 +1,12 @@
 import 'dart:async';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:mobile_challenge_2021/bloc/events/patients_events.dart';
-import 'package:mobile_challenge_2021/bloc/states/patients_states.dart';
-import 'package:mobile_challenge_2021/data/dao/patients_dao.dart';
-import 'package:mobile_challenge_2021/data/entities/patient.dart';
-import 'package:mobile_challenge_2021/helpers/constants.dart';
-import 'package:mobile_challenge_2021/helpers/my_logger.dart';
+import 'package:mobile_challenge_2021_flutter/bloc/events/patients_events.dart';
+import 'package:mobile_challenge_2021_flutter/bloc/states/patients_states.dart';
+import 'package:mobile_challenge_2021_flutter/data/dao/patients_dao.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/patient.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/constants.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/my_logger.dart';
 import 'package:pedantic/pedantic.dart';
 
 class PatientsBloc extends Bloc<PatientsEvents, PatientsStates> {

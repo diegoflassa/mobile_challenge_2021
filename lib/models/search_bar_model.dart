@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_challenge_2021/enums/gender.dart';
-import 'package:mobile_challenge_2021/i18n/app_localizations.dart';
+import 'package:mobile_challenge_2021_flutter/enums/gender.dart';
+import 'package:mobile_challenge_2021_flutter/i18n/app_localizations.dart';
 
 class SearchBarModel extends ChangeNotifier {
   String _query = '';

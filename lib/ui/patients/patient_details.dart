@@ -5,17 +5,17 @@ import 'package:flutter/material.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:flutter_svg/svg.dart';
 import 'package:intl/intl.dart';
-import 'package:mobile_challenge_2021/data/entities/patient.dart';
-import 'package:mobile_challenge_2021/extensions/uri_extensions.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/patient.dart';
+import 'package:mobile_challenge_2021_flutter/extensions/uri_extensions.dart';
 // ignore: import_of_legacy_library_into_null_safe
-import 'package:mobile_challenge_2021/helpers/constants.dart';
-import 'package:mobile_challenge_2021/helpers/helper.dart';
-import 'package:mobile_challenge_2021/helpers/my_logger.dart';
-import 'package:mobile_challenge_2021/i18n/app_localizations.dart';
-import 'package:mobile_challenge_2021/models/patient_details_model.dart';
-import 'package:mobile_challenge_2021/real_main.dart';
-import 'package:mobile_challenge_2021/resources/resources.dart';
-import 'package:mobile_challenge_2021/ui/themes/my_text_style.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/constants.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/helper.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/my_logger.dart';
+import 'package:mobile_challenge_2021_flutter/i18n/app_localizations.dart';
+import 'package:mobile_challenge_2021_flutter/models/patient_details_model.dart';
+import 'package:mobile_challenge_2021_flutter/real_main.dart';
+import 'package:mobile_challenge_2021_flutter/resources/resources.dart';
+import 'package:mobile_challenge_2021_flutter/ui/themes/my_text_style.dart';
 import 'package:states_rebuilder/states_rebuilder.dart';
 
 class PatientDetailsDialog extends StatefulWidget {

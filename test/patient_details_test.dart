@@ -8,9 +8,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:intl/intl.dart';
-import 'package:mobile_challenge_2021/data/entities/patient.dart';
-import 'package:mobile_challenge_2021/real_main.dart';
-import 'package:mobile_challenge_2021/ui/patients/patient_details.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/patient.dart';
+import 'package:mobile_challenge_2021_flutter/real_main.dart';
+import 'package:mobile_challenge_2021_flutter/ui/patients/patient_details.dart';
 
 void main() {
   Patient _getPatient() {

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mobile_challenge_2021/ui/themes/my_color_scheme.dart';
+import 'package:mobile_challenge_2021_flutter/ui/themes/my_color_scheme.dart';
 
 class MyAppBarTheme extends AppBarTheme {
   MyAppBarTheme(this.myColorScheme)

@@ -7,7 +7,7 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:mobile_challenge_2021/real_main.dart';
+import 'package:mobile_challenge_2021_flutter/real_main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (tester) async {

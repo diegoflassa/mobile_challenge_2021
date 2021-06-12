@@ -3,14 +3,14 @@ import 'dart:typed_data';
 import 'package:flutter/material.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:intl/intl.dart';
-import 'package:mobile_challenge_2021/data/entities/patient.dart';
-import 'package:mobile_challenge_2021/enums/gender.dart';
-import 'package:mobile_challenge_2021/helpers/constants.dart';
-import 'package:mobile_challenge_2021/i18n/app_localizations.dart';
-import 'package:mobile_challenge_2021/interfaces/card_actions_callbacks.dart';
-import 'package:mobile_challenge_2021/real_main.dart';
-import 'package:mobile_challenge_2021/resources/resources.dart';
-import 'package:mobile_challenge_2021/ui/patients/patient_details.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/patient.dart';
+import 'package:mobile_challenge_2021_flutter/enums/gender.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/constants.dart';
+import 'package:mobile_challenge_2021_flutter/i18n/app_localizations.dart';
+import 'package:mobile_challenge_2021_flutter/interfaces/card_actions_callbacks.dart';
+import 'package:mobile_challenge_2021_flutter/real_main.dart';
+import 'package:mobile_challenge_2021_flutter/resources/resources.dart';
+import 'package:mobile_challenge_2021_flutter/ui/patients/patient_details.dart';
 
 class PatientCard extends StatefulWidget {
   const PatientCard(this.patient, {Key? key, this.cardActionsCallbacks})

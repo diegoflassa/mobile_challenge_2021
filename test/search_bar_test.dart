@@ -7,9 +7,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:mobile_challenge_2021/enums/gender.dart';
-import 'package:mobile_challenge_2021/interfaces/on_search.dart';
-import 'package:mobile_challenge_2021/ui/widgets/search_bar_widget.dart';
+import 'package:mobile_challenge_2021_flutter/enums/gender.dart';
+import 'package:mobile_challenge_2021_flutter/interfaces/on_search.dart';
+import 'package:mobile_challenge_2021_flutter/ui/widgets/search_bar_widget.dart';
 
 class OnSearchImpl implements OnSearch {
   @override

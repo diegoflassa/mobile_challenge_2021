@@ -1,13 +1,13 @@
 import 'package:equatable/equatable.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:json_annotation/json_annotation.dart';
-import 'package:mobile_challenge_2021/data/entities/address.dart';
-import 'package:mobile_challenge_2021/data/entities/dob.dart';
-import 'package:mobile_challenge_2021/data/entities/full_name.dart';
-import 'package:mobile_challenge_2021/data/entities/id.dart';
-import 'package:mobile_challenge_2021/data/entities/picture.dart';
-import 'package:mobile_challenge_2021/enums/gender.dart';
-import 'package:mobile_challenge_2021/helpers/helper.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/address.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/dob.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/full_name.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/id.dart';
+import 'package:mobile_challenge_2021_flutter/data/entities/picture.dart';
+import 'package:mobile_challenge_2021_flutter/enums/gender.dart';
+import 'package:mobile_challenge_2021_flutter/helpers/helper.dart';
 
 part 'patient.g.dart';
 

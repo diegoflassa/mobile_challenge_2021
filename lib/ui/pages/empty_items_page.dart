@@ -1,6 +1,6 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:mobile_challenge_2021/i18n/app_localizations.dart';
+import 'package:mobile_challenge_2021_flutter/i18n/app_localizations.dart';
 // ignore: import_of_legacy_library_into_null_safe
 import 'package:quiver/async.dart';
 
