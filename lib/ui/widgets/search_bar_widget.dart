@@ -186,7 +186,7 @@ class _SearchBarWidgetState extends State<SearchBarWidget> {
                 Constants.DEFAULT_EDGE_INSETS_BORDER_RADIUS),
             borderSide: BorderSide(color: MyColorScheme().primary, width: 5.0),
           ),
-          hintStyle: const TextStyle(color: Colors.white30),
+          hintStyle: TextStyle(color: MyColorScheme().secondaryVariant),
           suffixIcon: Padding(
             padding: const EdgeInsets.only(
                 right: Constants.DEFAULT_EDGE_INSETS_HORIZONTAL),
